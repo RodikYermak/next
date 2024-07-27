@@ -1,5 +1,4 @@
-import { Title } from '@/components/shared';
-import { Container } from '@/components/shared/container';
+import { Title, Container, TopBar } from '@/components/shared';
 
 export default function Home() {
     return (
@@ -7,6 +6,7 @@ export default function Home() {
             <Container className="mt-10">
                 <Title text="All Pizzas" size="lg" className="font-extrabold" />
             </Container>
+            <TopBar />
         </>
     );
 }
