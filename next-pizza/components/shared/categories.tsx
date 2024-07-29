@@ -7,7 +7,7 @@ interface Props {
 
 const cats = [
     'Pizzas',
-    'Drinks',
+    'Breakfast',
     'Desserts',
     'Sauces',
     'Dips',

@@ -29,7 +29,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                     {
-                                        id: 1,
+                                        id: 2,
                                         name: 'Pizza 1',
                                         imageUrl:
                                             'https://media.dodostatic.net/image/r:233x233/11EF438E93884BFEBFE79D11095AE2D4.avif',
@@ -37,7 +37,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                     {
-                                        id: 1,
+                                        id: 3,
                                         name: 'Pizza 1',
                                         imageUrl:
                                             'https://media.dodostatic.net/image/r:233x233/11EF438E93884BFEBFE79D11095AE2D4.avif',
@@ -45,7 +45,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                     {
-                                        id: 1,
+                                        id: 4,
                                         name: 'Pizza 1',
                                         imageUrl:
                                             'https://media.dodostatic.net/image/r:233x233/11EF438E93884BFEBFE79D11095AE2D4.avif',
@@ -53,7 +53,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                     {
-                                        id: 1,
+                                        id: 5,
                                         name: 'Pizza 1',
                                         imageUrl:
                                             'https://media.dodostatic.net/image/r:233x233/11EF438E93884BFEBFE79D11095AE2D4.avif',
@@ -61,7 +61,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                     {
-                                        id: 1,
+                                        id: 6,
                                         name: 'Pizza 1',
                                         imageUrl:
                                             'https://media.dodostatic.net/image/r:233x233/11EF438E93884BFEBFE79D11095AE2D4.avif',
@@ -83,7 +83,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                     {
-                                        id: 1,
+                                        id: 2,
                                         name: 'Pizza 1',
                                         imageUrl:
                                             'https://media.dodostatic.net/image/r:233x233/11EF438E93884BFEBFE79D11095AE2D4.avif',
@@ -91,7 +91,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                     {
-                                        id: 1,
+                                        id: 3,
                                         name: 'Pizza 1',
                                         imageUrl:
                                             'https://media.dodostatic.net/image/r:233x233/11EF438E93884BFEBFE79D11095AE2D4.avif',
@@ -99,7 +99,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                     {
-                                        id: 1,
+                                        id: 4,
                                         name: 'Pizza 1',
                                         imageUrl:
                                             'https://media.dodostatic.net/image/r:233x233/11EF438E93884BFEBFE79D11095AE2D4.avif',
@@ -107,7 +107,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                     {
-                                        id: 1,
+                                        id: 5,
                                         name: 'Pizza 1',
                                         imageUrl:
                                             'https://media.dodostatic.net/image/r:233x233/11EF438E93884BFEBFE79D11095AE2D4.avif',
@@ -115,7 +115,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                     {
-                                        id: 1,
+                                        id: 6,
                                         name: 'Pizza 1',
                                         imageUrl:
                                             'https://media.dodostatic.net/image/r:233x233/11EF438E93884BFEBFE79D11095AE2D4.avif',
@@ -123,7 +123,7 @@ export default function Home() {
                                         items: [{ price: 100 }],
                                     },
                                 ]}
-                                categoryId={1}
+                                categoryId={2}
                             />
                         </div>
                     </div>
