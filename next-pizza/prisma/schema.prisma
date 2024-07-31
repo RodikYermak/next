@@ -47,7 +47,7 @@ model Product {
     items       ProductItem[]
 
     category   Category @relation(fields: [categoryId], references: [id])
-    categoryId Int
+    categoryId Int // 4
 
     createdAt DateTime @default(now())
     updatedAt DateTime @updatedAt
